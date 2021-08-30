@@ -21,7 +21,7 @@ export default function Home() {
   </div>
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img  src="https://lh3.googleusercontent.com/proxy/1_o4eRkVbfqdC304SJ1LVox0KDgCLXvnVtekrPiL5McbGz8aduXvWmnN5Hi2_K8arid7TGyXecVOkrbiKQQjuYBK8JnBbRlBbA19LO0lc5VHKwGhFDxCHJdCi7jZSnFoadi8aRkBlzmRc2t6Biz_vKHd3dJXY6fteug" className="d-block w-50" alt="..."/>
+      <img  src="https://wallpaperaccess.com/full/774029.jpg" className="d-block w-50" alt="..."/>
     </div>
     <div className="carousel-item">
       <img src="https://wallpapers.net/web/wallpapers/maldives-hotel-room-hd-wallpaper/5120x2160.jpg" className="d-block w-50" alt="..."/>

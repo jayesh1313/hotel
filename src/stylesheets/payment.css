@@ -1,0 +1,25 @@
+.col-md-4c{
+   background-image: url(https://th.bing.com/th/id/OIP.TW4IP_trqGsOmBd-lzpvhQHaE7?pid=ImgDet&rs=1) ;
+   box-shadow: 10px 10px black;
+   margin-top: 5%;
+  margin-left: 35%;
+   margin-right: 30%;
+    color: rgb(255, 255, 255);
+   font-weight: bolder;
+}
+.bt4{
+   margin-left: 39%;
+}
+.h{
+   margin-left: 30%;
+}
+.abv{
+   
+   padding-top: 10% ;
+   background-color: rgba(3, 19, 241, 0.479);
+   height: 100vh;
+
+}
+.col-md-10{
+   width: 100%;
+}

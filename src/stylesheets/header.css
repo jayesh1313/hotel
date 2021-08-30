@@ -1,0 +1,9 @@
+.navbar li a:hover{
+padding-left: 12px;
+}
+/* .container-fluid{
+    background-color: skyblue;
+} */
+.offcanvas{
+    background-color: yellow;
+}

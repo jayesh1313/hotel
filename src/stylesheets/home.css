@@ -1,0 +1,33 @@
+.d-block{
+    
+    margin-left: 25%;
+}
+.rty{
+    padding-top: 10%;
+    background-image: linear-gradient(170deg, rgba(0, 55, 173, 0.329) 28%, rgb(0, 0, 0) 100%) ,url(https://wallpaperstock.net/nice-hotel-room%2c-interior-design%2c-bed%2c-chair%2c-photography-wallpapers_57186_1920x1200.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;   
+}
+.bnm{
+    box-shadow: 5px 5px 5px 5px;
+}
+.text-name{
+    text-align: center;
+    color: aliceblue;
+    font-weight: ;
+}
+.reqp{
+    text-align: center;
+    font-style: italic;
+    color: yellow;
+}
+.yuio{
+    text-align: center;
+    font-weight: bolder;
+    color: greenyellow;
+}
+.yhj{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
